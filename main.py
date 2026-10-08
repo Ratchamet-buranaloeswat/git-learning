@@ -1,2 +1,1 @@
-print("Hello Git")
-print("This is feature-test branch")
+print("Hello from Developer A")
