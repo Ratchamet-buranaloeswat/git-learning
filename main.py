@@ -1,1 +1,2 @@
-print("Git is useful")
+print("Hello Git")
+print("I am learning Software Engineering")
