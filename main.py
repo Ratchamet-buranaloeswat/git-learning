@@ -1,2 +1,1 @@
-print("Hello Git")
-print("I am learning Software Engineering")
+print("Git is useful")
